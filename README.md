@@ -21,7 +21,7 @@ Labels:
 - **Stable** indicates that the project is widely adopted and can be used in production.
 - **No Dependencies** - the project has no third party dependencies (e.g jQuery).
 
-Important note on the suggested Polyfills: The polyfills suggested just make things "work". Most solutions are not aimed at aestethics.
+Important note on the suggested Polyfills: The polyfills suggested just make things "work". Most solutions are not aimed at aesthetics.
 
 ## HTML Polyfills
 In almost all cases, Modern HTML tags do not require polyfills, with the exception of some few, relatively uncommon tags.

@@ -6,7 +6,7 @@
 </p>
 
 # Awesome Polyfills for the Browser (Work in Progress)
-🛠️A curated list of awesome things related to browser polyfills
+🛠️A curated list of awesome things related to browser polyfills. <br>
 Polyfills help standardize the HTML, Javascript and CSS support across web browsers. 
 
 ## Contents

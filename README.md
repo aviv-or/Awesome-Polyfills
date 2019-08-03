@@ -54,7 +54,6 @@ Polyfills for deprected HTML tags that are no longer supported in modern browser
 
  - <[Blink](https://github.com/contra/blink-polyfill)> - ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Obsolete` The blink tag flashes the enclosed text. *Note: The polyfill utilize CSS to achieve the same effect.*
   - <[input type="datetime"](https://github.com/jonstipe/datetime-polyfill)> - ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Obsolete` *Note: There is also a modern Polymer polyfill which includes some other features -[here](https://github.com/fooloomanzoo/datetime-picker)*
- - <[input type="datetime"](https://github.com/jonstipe/datetime-polyfill)> - ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Obsolete` *Note: There is also a modern Polymer polyfill which includes some other features -[here](https://github.com/fooloomanzoo/datetime-picker)*
 
 ## CSS Polyfills
 

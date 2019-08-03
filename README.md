@@ -35,7 +35,7 @@ Polyfill for new HTML Tags that are not supported in old browsers.
 Polyfills for HTML tags that are not as common or not standardized across all major browsers.
 
  - <[details](https://github.com/rstacruz/details-polyfill)> (**Stable, No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` The details tag specifies details that the user can view or hide on demand. 
- - <[dialog](https://github.com/rstacruz/details-polyfill)> (**Stable, No Dependencies**) - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support` the dialog tag create a dialog box that can be displayed as a modal or a window to the user.
+ - <[dialog](https://github.com/GoogleChrome/dialog-polyfill)> (**Stable, No Dependencies**) - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support` the dialog tag create a dialog box that can be displayed as a modal or a window to the user.
  - <[input type="number"](https://github.com/jonstipe/number-polyfill)> - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support*` *Note: Almost all browsers support this input type, but some browsers won't show UI widgets (e.g decrease / increase buttons for the input). The polyfill is quite old.*
   - <[datalist](https://github.com/mfranzke/datalist-polyfill)> - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`. A tag that offers the user to ener a custom value while still being able to pick a value from a defined list.
 

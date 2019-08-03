@@ -1,5 +1,5 @@
   <br>
-    <img width="240" height="240" src="https://i.imgur.com/HCClYwF.png" />
+    <img width="150" height="150" src="https://i.imgur.com/HCClYwF.png" />
   <br>
   <br>
   <br>
@@ -14,7 +14,7 @@ Polyfills help standard the HTML, Javascript and CSS experience across browsers.
 
 ## Uncommon HTML Polyfills
 
-[[Details]](https://github.com/rstacruz/details-polyfill) - ![#2aed11](https://placehold.it/15/2aed11/000000?text=+) `High Native Support` The `<details>` tag specifies details that the user can view or hide on demand.
+[<Details>](https://github.com/rstacruz/details-polyfill) - ![#2aed11](https://placehold.it/15/2aed11/000000?text=+) `High Native Support` The `<details>` tag specifies details that the user can view or hide on demand.
 
 
 > Please don't hesitate to make a PR if you have more resources to share.

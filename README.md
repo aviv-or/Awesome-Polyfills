@@ -35,11 +35,13 @@ In almost all cases, Modern HTML tags do not require polyfills, with the excepti
 Polyfill for new HTML Tags that are not supported in old browsers. 
 - <[Custom Elements](https://github.com/webcomponents/polyfills/tree/master/packages/webcomponentsjs)> (**Experimental, No Dependencies**) - ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Low Native Support` This allows the developer to define new HTML tags (Web components). *Note: While there are other polyfills available, all of them, including the one suggested, are rather experimental.*
 
-### Uncommon HTML Tags Polyfills
+### Uncommon HTML Tags Polyfills or Partial Polyfills
 Polyfills for HTML tags that are not as common or not standardized across all major browsers.
 
  - <[details](https://github.com/rstacruz/details-polyfill)> (**Stable, No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` The details tag specifies details that the user can view or hide on demand. 
  - <[dialog](https://github.com/rstacruz/details-polyfill)> (**Stable, No Dependencies**) - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support` the dialog tag create a dialog box that can be displayed as a modal or a window to the user.
+ - <[input type="number"](https://github.com/jonstipe/number-polyfill)> - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support*` Note: Almost all browsers support this input type, but some browsers won't show UI releated widgets (e.g decrease / increase buttons for the input). The polyfill is quite old.
+
 
 Old date and time related input types: (Most Polyfills are old and require old dependencies):
   - <[input type="datetime-local"](https://github.com/jonstipe/datetime-local-polyfill)> - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.

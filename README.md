@@ -11,13 +11,16 @@ Polyfills help standardize the HTML, Javascript and CSS support across web brows
 
 ## Contents
 
+## Deprected HTML Tags Polyfills
+Polyfills for deprected HTML tags that are no longer supported in modern browsers. 
+*You should avoid using these tags, as some of them are really old to the point where it makes no sense polyfilling them*
+
+ - <[Blink](https://github.com/contra/blink-polyfill)> Tag - ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Obsolete` The blink tag flashes the enclosed text.
+
 ## Uncommon HTML Tags Polyfills
+Polyfills for HTML tags that are not as as common.
 
  - <[Details](https://github.com/rstacruz/details-polyfill)> Tag - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` The details tag specifies details that the user can view or hide on demand.
-
-
-
-## Deprected HTML Tags Polyfills
 
 
 ## New HTML Tags Polyfills

@@ -30,9 +30,9 @@ Polyfill for new HTML Tags that are not supported in old browsers.
 ### Uncommon HTML Tags Polyfills
 Polyfills for HTML tags that are not as as common or not standardized across all major browsers.
 
- - <[details](https://github.com/rstacruz/details-polyfill)> (**Stable, No Dep**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` The details tag specifies details that the user can view or hide on demand. 
- - <[dialog](https://github.com/rstacruz/details-polyfill)> (**Stable, No Dep**) - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support` the dialog tag create a dialog box that can be displayed as a modal or a window to the user.
- Old Input types: (Most Polyfills are old and require old dependencies):
+ - <[details](https://github.com/rstacruz/details-polyfill)> (**Stable, No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` The details tag specifies details that the user can view or hide on demand. 
+ - <[dialog](https://github.com/rstacruz/details-polyfill)> (**Stable, No Dependencies**) - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support` the dialog tag create a dialog box that can be displayed as a modal or a window to the user.
+ Old date and time related input types: (Most Polyfills are old and require old dependencies):
   - <[input type="datetime-local"](https://github.com/jonstipe/datetime-local-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
    - <[input type="time"](https://github.com/jonstipe/time-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
    - <[input type="date"](https://github.com/liorwohl/html5-simple-date-input-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
@@ -44,10 +44,8 @@ Polyfills for HTML tags that are not as as common or not standardized across all
 Polyfills for deprected HTML tags that are no longer supported in modern browsers. 
 *Please avoid using these tags*
 
- - <[Blink](https://github.com/contra/blink-polyfill)> Tag - ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Obsolete` The blink tag flashes the enclosed text.
-  - <[input type="datetime"](https://github.com/jonstipe/datetime-polyfill)> Tag - ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Obsolete` The blink tag flashes the enclosed text.
-
-
+ - <[Blink](https://github.com/contra/blink-polyfill)> Tag - ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Obsolete` The blink tag flashes the enclosed text. Note:The polyfill utilize CSS to achieve the same effect.
+  - <[input type="datetime"](https://github.com/jonstipe/datetime-polyfill)> Tag - ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Obsolete` Note:There is also a modern Polymer polyfill which includes some other features -[here](https://github.com/fooloomanzoo/datetime-picker)
 
 
 

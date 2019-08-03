@@ -65,7 +65,7 @@ Polyfills for features that were introduced in CSS3.
  - [{ display: flex }](https://github.com/jonathantneal/flexibility) (**No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There are other flexbox polyfills. All of them seemed to have some limitations.*
   - [CSS Variables](https://github.com/aaronbarker/css-variables-polyfill) (**No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There is another, younger project that only aims to polyfill IE11 [link](https://github.com/nuxodin/ie11CustomProperties)*
 
-## Deprecated CSS Features Polyfills
-There are some deprecated CSS properties still in use today. However, unlike HTML or JS browsers are more forgiven if you use them. Since polyfilling these properties is not good practice, this list remains empty for now. You find some common properties [in the following link](https://css-tricks.com/list-of-depreciated-elements-still-in-widespread-use/).
+## Deprecated CSS Properties Polyfills
+There are some deprecated CSS properties still in use today. However, unlike HTML or JS browsers are more forgiven for deprecated CSS properties. Since polyfilling these properties is bad practice, this list remains empty for now. You find some common properties [in the following link](https://css-tricks.com/list-of-depreciated-elements-still-in-widespread-use/).
 
 

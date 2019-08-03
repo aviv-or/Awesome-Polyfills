@@ -1,7 +1,6 @@
-  <br>
+ <p align="center>
+ <br>
     <img width="150" height="150" src="https://i.imgur.com/HCClYwF.png" />
-  <br>
-  <br>
   <br>
 </p>
 

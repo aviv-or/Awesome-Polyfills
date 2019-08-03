@@ -20,7 +20,10 @@ The native usage score indicates how common this feature is supported natively. 
 
 ### How Polyfills are picked
 The main polyfill suggested is always the one that is the easiest to implement, the most stable and with the least depencencies. If there is another good / better option that requires a build tool or a framework, it might still be shown inside the polyfill description.
-The Polyfill 
+Labels:
+- **Experimental** means that the project or the feature is still not quite production-ready.
+- **Stable** indicates that the project is widely adopted and can be used in production.
+- **No Dependencies** - the project has no third party dependencies (e.g jQuery).
 
 ## HTML Polyfills
 In almost all cases, Modern HTML tags do not require polyfills, with the exception of some few, relatively uncommon tags.
@@ -29,8 +32,6 @@ In almost all cases, Modern HTML tags do not require polyfills, with the excepti
 (Work in Progress!)
 Polyfill for new HTML Tags that are not supported in old browsers. 
 - <[Custom Elements](https://github.com/webcomponents/polyfills/tree/master/packages/webcomponentsjs)> (**Experimental, No Dependencies**) - ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Low Native Support` This allows the developer to define new HTML tags (Web components). *Note: While there are other polyfills available, all of them, including the one suggested, are rather experimental.*
-
-https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements
 
 ### Uncommon HTML Tags Polyfills
 Polyfills for HTML tags that are not as common or not standardized across all major browsers.

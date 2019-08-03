@@ -24,6 +24,9 @@ Polyfills for HTML tags that are not as as common or not standardized across all
  - <[dialog](https://github.com/rstacruz/details-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support` the dialog tag create a dialog box that can be displayed as a modal or a window to the user.
   - <[datetime-local](https://github.com/rstacruz/details-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
    - <[time](https://github.com/jonstipe/time-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
+   - <[date](https://github.com/liorwohl/html5-simple-date-input-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
+   - <[input type="week"](https://github.com/jonstipe/week-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
+  
  
 ### Deprected HTML Tags Polyfills
 Polyfills for deprected HTML tags that are no longer supported in modern browsers. 

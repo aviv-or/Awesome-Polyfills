@@ -1,14 +1,11 @@
  <p align="center>
- <br>
-    <img width="150" height="150" src="https://i.imgur.com/HCClYwF.png" />
-  <br>
+    <img width="150" height="150" src="https://i.imgur.com/HCClYwF.png">
 </p>
 
 # Awesome Polyfills for the Browser (Work in Progress)
 🛠️A curated list of awesome things related to browser polyfills. <br>
 Polyfills help standardize the HTML, Javascript and CSS support across web browsers. 
 
-## Contents
 ## Introduction
 ### Native Usage Score
 The native usage score indicates how common this feature is supported natively. The score is based on caniuse.com. Please note, that this score has nothing to do with the polyfill itself. This doesn't indicate how good / bad the polyfill is, only how much it is needed. 

@@ -59,9 +59,9 @@ Polyfills for deprected HTML tags that are no longer supported in modern browser
 
 ## New CSS Features Polyfills
 Polyfills for features that were introduced in CSS3.
- - <{display: grid}(https://github.com/FremyCompany/css-grid-polyfill/)> (**Stable, No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There are other grid polyfills, but this one seems to be the most stable and maintained.*
- - <{display: flex}(https://github.com/jonathantneal/flexibility)> (**No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There are other flexbox polyfills. All of them seemed to have some limitations. *
-  - <CSS Variables(https://github.com/aaronbarker/css-variables-polyfill)> (**No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There is another, younger project that only aims to polyfill IE11 <[here](https://github.com/nuxodin/ie11CustomProperties)> 
+ - { display: grid }(https://github.com/FremyCompany/css-grid-polyfill/) (**Stable, No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There are other grid polyfills, but this one seems to be the most stable and maintained.*
+ - { display: flex }(https://github.com/jonathantneal/flexibility) (**No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There are other flexbox polyfills. All of them seemed to have some limitations.*
+  - <CSS Variables(https://github.com/aaronbarker/css-variables-polyfill)> (**No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There is another, younger project that only aims to polyfill IE11 [link](https://github.com/nuxodin/ie11CustomProperties)*
 
 ## Deprecated CSS Features Polyfills
 

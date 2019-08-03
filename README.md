@@ -12,7 +12,7 @@ Polyfills help standardize the HTML, Javascript and CSS support across web brows
 ## Contents
 
 ## HTML Polyfills
-To my knowledge, polyfills for modern HTML tags not needed with the exception of '<details>' and '<dialog>'. There might be some tags which are not officially reconized in all browsers, but are still supported (like '<time>').
+In almost all cases, Modern HTML tags do not require polyfills, with the exception of '<details>' and '<dialog>'. There might be some tags which are not officially reconized in all browsers, but are still supported (like '<time>').
 
 ### New HTML Tags Polyfills
 Polyfill for new HTML Tags that are not supported in old browsers. This is where polyfilling makes the most sense!

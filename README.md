@@ -1,2 +1,20 @@
-# Awesome-Polyfill
+  <br>
+    <img width="240" height="240" src="https://i.imgur.com/HCClYwF.png" />
+  <br>
+  <br>
+  <br>
+</p>
+
+# Awesome Polyfills for the Browser [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 🛠️A curated list of awesome things related to browser polyfills
+
+Polyfills help standard the HTML, Javascript and CSS experience across browsers. 
+
+## Contents
+
+## Uncommon HTML Polyfills
+
+- [Details](https://github.com/rstacruz/details-polyfill) (Caniuse - Over 90%) - Supercharge Nuxt with a heavily tested, updated and stable PWA solution.
+
+
+> Please don't hesitate to make a PR if you have more resources to share.

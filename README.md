@@ -5,17 +5,17 @@
   <br>
 </p>
 
-# Awesome Polyfills for the Browser
+# Awesome Polyfills for the Browser (Work in Progress)
 🛠️A curated list of awesome things related to browser polyfills
 Polyfills help standardize the HTML, Javascript and CSS support across web browsers. 
 
 ## Contents
 ## Introduction
 ### Native Usage Score
-The native usage score indicates how common this feature is supported natively. The score is based on caniuse.com and is quite strict by purpose. Please note, that this score has nothing to do with the polyfill itself. This doesn't indicate how good / bad the polyfill is, only how much it is needed. 
-- ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` - Indicates that at least 90% of all browsers support this feature natively.
-- ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support` - Indicates that at least 70% of all browsers support this feature natively.
-- ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Low Native Support` - Anything below.
+The native usage score indicates how common this feature is supported natively. The score is based on caniuse.com. Please note, that this score has nothing to do with the polyfill itself. This doesn't indicate how good / bad the polyfill is, only how much it is needed. 
+- ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` - indicates that at least 90% of all browsers support this feature natively.
+- ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support` - indicates that at least 70% of all browsers support this feature natively.
+- ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Low Native Support` - indicates that no more than 70% of all browsers support this feature natively.
 - ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Obsolete` - A feature that is obsoloted, and should not be used nor polyfilled.
 
 ### How Polyfills are picked
@@ -57,7 +57,7 @@ Polyfills for deprected HTML tags that are no longer supported in modern browser
 
 ## CSS Polyfills
 
-## New CSS Features Polyfills
+## New CSS Properties Polyfills
 Polyfills for features that were introduced in CSS3. Unfortunately, some CSS polyfills might have problems with Ajax / Javascript generated elements since they usually inject the polyfill at runtime when the page loads.
 
  - [{ display: grid }](https://github.com/FremyCompany/css-grid-polyfill/) (**Stable, No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There are other grid polyfills, but this one seems to be the most stable and maintained.*
@@ -65,5 +65,6 @@ Polyfills for features that were introduced in CSS3. Unfortunately, some CSS pol
   - [CSS Variables](https://github.com/aaronbarker/css-variables-polyfill) (**No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There is another, younger project that only aims to polyfill IE11 [link](https://github.com/nuxodin/ie11CustomProperties)*
 
 ## Deprecated CSS Features Polyfills
+There are some deprecated CSS properties still in use today. However, unlike HTML or JS browsers are more forgiven if you'll use them. For this reason, this section remains empty for now. You find some common properties [in the following link](https://css-tricks.com/list-of-depreciated-elements-still-in-widespread-use/).
 
 

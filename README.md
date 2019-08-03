@@ -30,7 +30,7 @@ Polyfill for new HTML Tags that are not supported in old browsers.
 ### Uncommon HTML Tags Polyfills
 Polyfills for HTML tags that are not as as common or not standardized across all major browsers.
 
- - <[details](https://github.com/rstacruz/details-polyfill)> Tag - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` The details tag specifies details that the user can view or hide on demand. 
+ - <[details](https://github.com/rstacruz/details-polyfill)> Tag <sub><sup>**stable**</sub></sup> - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` The details tag specifies details that the user can view or hide on demand. 
  - <[dialog](https://github.com/rstacruz/details-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support` the dialog tag create a dialog box that can be displayed as a modal or a window to the user.
   - <[input type="datetime-local"](https://github.com/jonstipe/datetime-local-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
    - <[input type="time"](https://github.com/jonstipe/time-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.

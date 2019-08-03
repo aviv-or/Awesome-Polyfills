@@ -10,6 +10,16 @@
 Polyfills help standardize the HTML, Javascript and CSS support across web browsers. 
 
 ## Contents
+## Introduction
+### Native Usage Score
+The native usage score indicates how common this feature is supported natively. The score is based on caniuse.com and is quite strict by purpose. Please note, that this score has nothing to do with the polyfill itself. This doesn't indicate how good / bad the polyfill is, only how much it is needed. 
+- ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` - Indicates that at least 90% of all browsers support this feature natively.
+- ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support` - Indicates that at least 70% of all browsers support this feature natively.
+- ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Low Native Support` - Anything below.
+- ![#fa3e00](https://placehold.it/12/fa3e00/000000?text=+) `Obsolete` - A feature that is obsoloted, and should not be used nor polyfilled.
+
+### How Polyfills are picked
+The main polyfill suggested is always the one that is the easiest to implement, the most stable and with the least depencencies. If there is another good / better option but requires a build tool or a framework, it will also be shown inside the polyfill description.
 
 ## HTML Polyfills
 In almost all cases, Modern HTML tags do not require polyfills, with the exception of some few, relatively uncommon tags.

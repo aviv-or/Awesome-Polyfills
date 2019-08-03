@@ -22,9 +22,10 @@ Polyfills for HTML tags that are not as as common or not standardized across all
 
  - <[details](https://github.com/rstacruz/details-polyfill)> Tag - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` The details tag specifies details that the user can view or hide on demand. 
  - <[dialog](https://github.com/rstacruz/details-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support` the dialog tag create a dialog box that can be displayed as a modal or a window to the user.
-  - <[datetime-local](https://github.com/rstacruz/details-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
-   - <[time](https://github.com/jonstipe/time-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
-   - <[date](https://github.com/liorwohl/html5-simple-date-input-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
+  - <[input type="datetime-local"](https://github.com/jonstipe/datetime-local-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
+   - <[input type="time"](https://github.com/jonstipe/time-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
+   - <[input type="date"](https://github.com/liorwohl/html5-simple-date-input-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
+   - <[input type="month"](https://github.com/jonstipe/month-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
    - <[input type="week"](https://github.com/jonstipe/week-polyfill)> Tag - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`.
   
  

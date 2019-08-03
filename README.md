@@ -50,7 +50,7 @@ Old date and time related input types: (Most Polyfills are old and require old d
    - <[input type="month"](https://github.com/jonstipe/month-polyfill)> - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`. *Note: The polyfill is quite old.*
    - <[datalist](https://github.com/mfranzke/datalist-polyfill)> - ![#f0cb13](https://placehold.it/12/f0cb13/000000?text=+) `Moderate Native Support`. A tag that offers the user to ener a custom value while still being able to pick a value from a defined list. *Note: The polyfill is quite old.*
  
-### Deprected HTML Tags Polyfills
+### Deprecated HTML Tags Polyfills
 Polyfills for deprected HTML tags that are no longer supported in modern browsers. 
 *Please avoid using these tags*
 

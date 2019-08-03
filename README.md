@@ -14,7 +14,7 @@ Polyfills help standard the HTML, Javascript and CSS experience across browsers.
 
 ## Uncommon HTML Polyfills
 
-- [Details](https://github.com/rstacruz/details-polyfill) (Caniuse - Over 90%) - Supercharge Nuxt with a heavily tested, updated and stable PWA solution.
+- - ![#2aed11](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`[[Details]](https://github.com/rstacruz/details-polyfill) - Supercharge Nuxt with a heavily tested, updated and stable PWA solution.
 
 
 > Please don't hesitate to make a PR if you have more resources to share.

@@ -59,7 +59,7 @@ Polyfills for deprected HTML tags that are no longer supported in modern browser
 
 ## New CSS Properties Polyfills
 Polyfills for features that were introduced in CSS3. 
-**Unfortunately, most CSS polyfills might have problems with performance and Ajax / Javascript generated elements since they usually inject the polyfill at runtime when the page loads. **
+**Unfortunately, most CSS polyfills might have problems with performance and Ajax / Javascript generated elements since they usually inject the polyfill at runtime when the page loads.**
 
  - [{ display: grid }](https://github.com/FremyCompany/css-grid-polyfill/) (**No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There are other grid polyfills, but this one seems to be the most stable and maintained.*
  - [{ display: flex }](https://github.com/jonathantneal/flexibility) (**No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There are other flexbox polyfills. All of them seemed to have some limitations.*

@@ -14,7 +14,7 @@ Polyfills help standard the HTML, Javascript and CSS experience across browsers.
 
 ## Uncommon HTML Polyfills
 
-[[Details]](https://github.com/rstacruz/details-polyfill) - ![#2aed11](https://placehold.it/15/f03c15/000000?text=+) `High Native Support ` Supercharge Nuxt with a heavily tested, updated and stable PWA solution.
+[[Details]](https://github.com/rstacruz/details-polyfill) - ![#2aed11](https://placehold.it/15/f03c15/000000?text=+) `High Native Support` The <details> tag specifies details that the user can view or hide on demand.
 
 
 > Please don't hesitate to make a PR if you have more resources to share.

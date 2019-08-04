@@ -63,6 +63,6 @@ Polyfills for features that were introduced in CSS3.
   - [CSS Variables](https://github.com/aaronbarker/css-variables-polyfill) (**No Dependencies**) - ![#2aed11](https://placehold.it/12/2aed11/000000?text=+) `High Native Support` *Note: There is another, younger project that only aims to polyfill IE11 [link](https://github.com/nuxodin/ie11CustomProperties)*
 
 ## Deprecated CSS Properties Polyfills
-There are some deprecated CSS properties still in use today. However, unlike HTML or JS browsers are more forgiven for deprecated CSS properties. Since polyfilling these properties is bad practice, this list remains empty for now. You find some common properties [in the following link](https://css-tricks.com/list-of-depreciated-elements-still-in-widespread-use/).
+There are some deprecated CSS properties still in use today. However, unlike HTML or JS, browsers are more forgiven towards deprecated CSS properties. Since polyfilling these properties is bad practice, this list remains empty for now. You find some common deprecated CSS properties [in the following link](https://css-tricks.com/list-of-depreciated-elements-still-in-widespread-use/).
 
 
